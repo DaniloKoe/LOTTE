@@ -10,12 +10,12 @@ soon available
  - pip install skyfield
 
 - for windows shapely:
- - conda config --add channels conda-forge
- - conda install shapely
- - or direct wheels installation  http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely  see also https://pypi.python.org/pypi/Shapely
+  - conda config --add channels conda-forge
+  - conda install shapely
+  - or direct wheels installation  http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely  see also https://pypi.python.org/pypi/Shapely
 
- -for other os shapely
- - pip install shapely
+ - for other os shapely
+   - pip install shapely
 
 2. Discription will be soon available
 
